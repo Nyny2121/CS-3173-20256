@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.io.PrintWriter;
 import java.io.File;
 
-public class Homework1 {
+public class Assignment1 {
 	
 	public static void main(String[] args) {
 
